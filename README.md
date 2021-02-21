@@ -23,5 +23,5 @@
 To run the application use JAVA 8 or above.
 ```
 
-> Note: many thanks to my `Dear Collegues` for writing these nice events and tasks for the Utopia citizens.
+> Note: many thanks to my `Dear Collegues` for writing those nice events and tasks for our Utopia citizens and trusted me to write the time mashine :-)
 
