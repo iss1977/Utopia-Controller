@@ -15,6 +15,7 @@
 - Store, recall events from a central storage (Global Stacker)
 - Run events based on citizen needs
 - Test platform for co-developers
+- Extended to a simple Web Server application :  https://github.com/iss1977/MyUtopiaWithWebserver.git
 
  
 
@@ -22,4 +23,5 @@
 To run the application use JAVA 8 or above.
 ```
 
-> Note: many thanks to my `Dear Collegues` for writing these nice events and tasks for the Utopia citizens. 
+> Note: many thanks to my `Dear Collegues` for writing these nice events and tasks for the Utopia citizens.
+
